@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+
+	"name": "Mute Tab For Spotify",
+	"description": "Mute Tab",
+	"version": "1.0",
+	"background": {
+		"scripts": ["background.js"]
+	},
+
+	"permissions": ["tabs"],
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "ahmet falan"
+	}
+}
+
+
